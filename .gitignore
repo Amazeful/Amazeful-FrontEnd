@@ -32,6 +32,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+.husky
 
 # typescript
 *.tsbuildinfo
+
+#package-lock.json
+yarn.lock

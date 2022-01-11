@@ -1,6 +1,13 @@
 {
   "name": "amazeful-frontend",
   "private": true,
+  "description": "An open-source multi-purpose Twitch.tv bot",
+  "license": "AGPL-3.0",
+  "author": "Aiden Hadisi",
+  "repository": "https://github.com/Amazeful/amazeful-frontend.git",
+  "bugs": {
+    "url": "https://github.com/Amazeful/amazeful-frontend/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
